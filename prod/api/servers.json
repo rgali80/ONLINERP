@@ -1,0 +1,39 @@
+{
+    "version": 1,
+    "players_today": 164,
+    "1": {
+        "serverid": 1,
+        "name": "ONLINE RP | 01 | TEXAS",
+        "players": 182,
+        "max_players": 1000,
+        "bonus": 3
+    },
+    "2": {
+        "serverid": 2,
+        "name": "ONLINE RP | 02 | FLORIDA",
+        "players": 66,
+        "max_players": 1000,
+        "bonus": 3
+    },
+    "3": {
+        "serverid": 3,
+        "name": "ONLINE RP | 03 | NEVADA",
+        "players": 57,
+        "max_players": 1000,
+        "bonus": 3
+    },
+    "4": {
+        "serverid": 4,
+        "name": "ONLINE RP | 04 | HAWAII",
+        "players": 41,
+        "max_players": 1000,
+        "bonus": 3
+    },
+    "5": {
+        "serverid": 5,
+        "name": "ONLINE RP | 05 | INDIANA",
+        "players": 30,
+        "max_players": 1000,
+        "bonus": 3
+    }
+}
