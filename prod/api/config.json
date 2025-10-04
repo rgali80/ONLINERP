@@ -2,8 +2,8 @@
   "config_version": 1,
   "msgs": [],
   "apk": {
-    "version": 712,
-    "str": "4.10.4",
+    "version": 604,
+    "str": "4.15.4",
     "path": "apk/604/604.apk",
     "auto_update": true,
     "manual_update": false,
