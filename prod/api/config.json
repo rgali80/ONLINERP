@@ -3,7 +3,7 @@
   "msgs": [],
   "apk": {
     "version": 604,
-    "str": "4.40.4",
+    "str": "4.10.4",
     "path": "apk/604/604.apk",
     "auto_update": true,
     "manual_update": false,
