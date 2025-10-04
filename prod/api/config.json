@@ -14,7 +14,7 @@
     "URL_UPDATE": "update/${version}/update_${version}.json",
     "URL_NEWS": "news.json",
     "URL_HELP": "help.json",
-    "URL_ONLINE_API": "https://github.com/rgali80/STARWINK/main/prod/api/servers.json",
+    "URL_ONLINE_API": "https://raw.githubusercontent.com/rgali80/STARWINK/main/prod/api/servers.json",
     "URL_DONATE_API": "https://api.gta-mobile.ru/oldAPI/donate_api.php",
     "URL_SITE": "https://gta-mobile.ru/",
     "URL_VK": "https://vk.com/online_samp",
